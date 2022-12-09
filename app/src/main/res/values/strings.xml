@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Orion Turkey TechClub</string>
+    <string name="About">   NetRD Bilgi Teknolojileri ve Telekomünikasyon A.S, is now part of Orion Innovation Group. Orion is a leading digital transformation and product development services firm. Headquartered in Edison, NJ, we have a global team of 6,000+ associates, with engineers in 13 major delivery centers across North America, Europe, Asia and Latin America.
+
+        For over 25 years, Orion has been solving complex business problems for our clients. Our transformative business solutions are rooted in digital strategy, experience design, and engineering, empowering our clients to operate with agility at scale.
+
+        Our mission is to serve as an agile and trusted partner for business transformation initiatives, providing deep emerging technology, experience design, and domain expertise.
+
+        Our business has more than tripled over the last three years. We have grown aggressively both organically and inorganically, adding new clients, complementary skills, domain expertise,
+
+        and strengthening our global footprint.</string>
+    <string name="adres">Yenisehir Mah. Osmanli Bul.
+        A Blok No:11A/30
+        Pendik/İSTANBUL</string>
+    <string name="description">Image</string>
+    <string name="phone">As Orion Innovation Turkey
+        techClub, we aim to share our
+        technical competencies, techClub
+        events and announcements.</string>
+</resources>
